@@ -27,7 +27,7 @@ body{
 .header-nav{
     position: sticky;
     top: 0;
-    
+
 }
 .heading a{
     color: white;
@@ -218,4 +218,10 @@ h5{
 }    
 .bg-color-white{
     background-color: #FBFBFD ;
+}
+.tseg{
+    max-width: 1200px;
+    margin: 5% auto;
+    color: #6E6E73;
+
 }
